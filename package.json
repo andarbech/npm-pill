@@ -1,0 +1,22 @@
+{
+  "name": "npm-pill",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andarbech/npm-pill.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andarbech/npm-pill/issues"
+  },
+  "homepage": "https://github.com/andarbech/npm-pill#readme",
+  "dependencies": {
+    "moment": "^2.29.1"
+  }
+}
