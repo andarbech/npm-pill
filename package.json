@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/andarbech/npm-pill#readme",
   "dependencies": {
+    "jquery": "^3.6.0",
+    "lodash": "^4.17.21",
     "moment": "^2.29.1"
   }
 }
